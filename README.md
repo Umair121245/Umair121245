@@ -1,13 +1,6 @@
 <div align="center">
 <h1 align="center">I'm Umair Khan</h1>
 
- ![Free Palestine](https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
- [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umair-khan-0b3b23170/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:khan0147852@gmail.com?subject=Hello%20Umair,%20From%20Github)
-
 </div>
 
 - 🔭 I’m currently working on [PHP](https://www.php.net/), [Laravel](https://laravel.com/).
